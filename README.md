@@ -61,7 +61,7 @@ Sergio:
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
-- Enlace al documento: [UsabilityReview PDF](P1/documentation/UsabilityReview.pdf)
+- Enlace al documento: [UsabilityReview PDF](P1/Documentation/UsabilityReview.pdf)
 - Valoración final (numérica): 45
 - Comentario sobre la valoración:  La página web deja mucho que desear muchas de sus funcionalidades no son muy útiles (como la búsqueda) y además la sección de compra y que esta no tenga certificado de seguridad son errores muy graves.
 
