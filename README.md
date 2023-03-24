@@ -26,7 +26,7 @@ Miembros
 
 ## Paso 1. UX Desk Research & Analisis 
 
-![Método UX](img/EmpathyMap.png) 1.a Empathy Map
+![Método UX](img/empathyMap.png) 1.a Empathy Map
 
 La página es muy caótica el sentimiento del usuario estará muy compuesto por situaciones de desorientación el tema de la seguridad da mucha desconfianza.
 
