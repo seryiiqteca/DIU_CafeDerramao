@@ -1,6 +1,7 @@
 ## DIU - Practica1, entregables 
 
 ![Método UX](../img/empathyMap.png) 1.a Empathy Map
+-----
 
 La página es muy caótica el sentimiento del usuario estará muy compuesto por situaciones de desorientación. El tema de la seguridad da mucha desconfianza.  
 ![Método UX](img/Empathymap.png)
