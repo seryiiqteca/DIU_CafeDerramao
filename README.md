@@ -28,7 +28,8 @@ Miembros
 
 ![Método UX](img/empathyMap.png) 1.a Empathy Map
 
-La página es muy caótica el sentimiento del usuario estará muy compuesto por situaciones de desorientación el tema de la seguridad da mucha desconfianza.
+La página es muy caótica el sentimiento del usuario estará muy compuesto por situaciones de desorientación. El tema de la seguridad da mucha desconfianza.
+![Método UX](img/empathyMap.png)
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
@@ -40,11 +41,23 @@ La página es muy caótica el sentimiento del usuario estará muy compuesto por 
 
 Hemos escogido dos perfiles Sergio y Anne, son 2 tipos de personas diferentes que buscan 2 tipos de ruta diferente pero que concluyen el mismo sitio, Anne por ejemplo al organizar una visita escolar necesita más garantías y certezas y Sergio necesita encontrar un buen precio y realizar todo de manera rápida sin tener que darle muchas vueltas a nada.
 
+Anne:
+![Método UX](img/empathyMap.png)
+
+Sergio:
+![Método UX](img/empathyMap.png)
+
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
 
 
 Ambos debían organizar el viaje, son situaciones relativamente comúnes ya que se tratan de una visita turística que puede tener cierto grupo de usuarios que esten interesados en ese sector, Sergio quiere darle una sorpresa a su amigo que le gusta este mundo y Anne se dedica a dar clases de una asignatura que está directamente relacionada con el arte y la artesanía.
+
+Anne:
+![Método UX](img/empathyMap.png)
+
+Sergio:
+![Método UX](img/empathyMap.png)
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
