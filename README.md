@@ -41,11 +41,12 @@ La competencia más directa que hemos encontrado se trata de [Kerarqueo](https:/
 
 Hemos escogido dos perfiles Sergio y Anne, son 2 tipos de personas diferentes que buscan 2 tipos de ruta diferente pero que concluyen el mismo sitio, Anne por ejemplo al organizar una visita escolar necesita más garantías y certezas y Sergio necesita encontrar un buen precio y realizar todo de manera rápida sin tener que darle muchas vueltas a nada.
 
+Sergio:
+![Método UX](P1/img/Sergio.png)
+
 Anne:
 ![Método UX](P1/img/Anne.png)
 
-Sergio:
-![Método UX](P1/img/Sergio.png)
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
@@ -53,11 +54,11 @@ Sergio:
 
 Ambos debían organizar el viaje, son situaciones relativamente comúnes ya que se tratan de una visita turística que puede tener cierto grupo de usuarios que esten interesados en ese sector, Sergio quiere darle una sorpresa a su amigo que le gusta este mundo y Anne se dedica a dar clases de una asignatura que está directamente relacionada con el arte y la artesanía.
 
-Anne:
-![Método UX](P1/img/AnneJourney.png)
-
 Sergio:
 ![Método UX](P1/img/SergioJourney.png)
+
+Anne:
+![Método UX](P1/img/AnneJourney.png)
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
