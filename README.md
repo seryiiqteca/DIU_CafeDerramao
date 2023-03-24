@@ -63,7 +63,7 @@ Sergio:
 ----
 - Enlace al documento: [UsabilityReview PDF](P1/Documentation/UsabilityReview.pdf)
 - Valoración final (numérica): 45
-- Comentario sobre la valoración:  La página web deja mucho que desear muchas de sus funcionalidades no son muy útiles (como la búsqueda) y además la sección de compra y que esta no tenga certificado de seguridad son errores muy graves.
+- Comentario sobre la valoración:  La página web deja mucho que desear muchas de sus funcionalidades no son muy útiles (como la búsqueda). Además la sección de compra con su pésimo control de errores, sin disponibilidad de ayuda en línea y que esta no tenga certificado de seguridad son errores muy graves.
 
 
 ## Paso 2. UX Design  
