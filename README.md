@@ -29,7 +29,7 @@ Miembros
 ![Método UX](img/emap.png) 1.a Empathy Map
 
 La página es muy caótica el sentimiento del usuario estará muy compuesto por situaciones de desorientación. El tema de la seguridad da mucha desconfianza.  
-![Método UX](P1/img/Empathymap.png)
+![Método UX](P1/img/emap.png)
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
