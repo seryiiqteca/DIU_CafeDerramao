@@ -34,12 +34,12 @@ La página es muy caótica el sentimiento del usuario estará muy compuesto por 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 
-La competencia más directa que hemos encontrado se trata de [Kerarqueo](https://www.kerarqueo.com/), empresa la cual tiene de 2 a 10 empleados y que se encuentra en la calle Recogidas, respecto a nuestra elección "Artesanía Nazarí" las fortalezas que tiene Kerarqueo son: la localización en Granada capital, su página web no hable nuevas pestañas constantemente y está mejor posicionada en Google. Luego Kerarqueo es débil en cuanto a que Artesanía Nazarí incluye el viaje en el precio, permite la reserva de manera online y oferta visitas escolares. Las amenazas que enfrenta Artesanía Nazarí son: la ausencia del certificado SSL en la página de compra y la dificultad de encontrar información respecto a los talleres, las oportunidades que tiene son: la mejora de la página web (encontrar la información más rápido) y mejorar el seo de la web.
+La competencia más directa que hemos encontrado se trata de [Kerarqueo](https://www.kerarqueo.com/), empresa la cual tiene de 2 a 10 empleados y que se encuentra en la calle Recogidas, respecto a nuestra elección "Artesanía Nazarí" las fortalezas que tiene Kerarqueo son: la localización en Granada capital, su página web no abre nuevas pestañas constantemente y está mejor posicionada en Google. Luego Kerarqueo es débil en cuanto a que Artesanía Nazarí incluye el viaje en el precio, permite la reserva de manera online y oferta visitas escolares. Las amenazas que enfrenta Artesanía Nazarí son: la ausencia del certificado SSL en la página de compra y la dificultad de encontrar información respecto a los talleres, las oportunidades que tiene son: la mejora de la página web (encontrar la información más rápido) y mejorar el seo de la web.
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
 
-Hemos escogido dos perfiles Sergio y Anne, son 2 tipos de personas diferentes que buscan 2 tipos de ruta diferente pero que concluyen el mismo sitio, Anne por ejemplo al organizar una visita escolar necesita más garantías y certezas y Sergio necesita encontrar un buen precio y realizar todo de manera rápida sin tener que darle muchas vueltas a nada.
+Hemos escogido dos perfiles Sergio y Anne, son 2 tipos de personas diferentes que buscan 2 tipos de ruta diferente pero que concluyen en el mismo sitio, Anne por ejemplo al organizar una visita escolar necesita más garantías y certezas y Sergio necesita encontrar un buen precio y realizar todo de manera rápida sin tener que darle muchas vueltas a nada.
 
 Sergio:
 ![Método UX](P1/img/Sergio.png)
