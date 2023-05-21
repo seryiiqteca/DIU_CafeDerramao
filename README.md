@@ -141,9 +141,8 @@ Hemos realizado la siguiente landing page para acceder a la app o para registrar
 ----
 
 >>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
-<video width="320" height="240" controls>
-  <source src="P3/4.Layout+Simulacion/Tema_claro.mp4" type="video/mp4">
-</video>
+![Video Tema Claro](https://github.com/seryiiqteca/DIU_CafeDerramao/blob/15bc07fc8f9f0686b2b7e245300c478b739fc01f/P3/4.Layout%2BSimulacion/Tema_claro.mp4)
+
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
