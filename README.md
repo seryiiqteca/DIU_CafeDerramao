@@ -125,11 +125,14 @@ En este apartado mostramos como estamos mostrando nuestra propia perspectiva ori
 En el caso de los colores nos hemos basado en colores tierra, marron , beige y de  este estilo en base a imagenes de este arte mas repreenttivas o de la propia alhambra que es lo primero que se te puede venir a la mente cuando hablamos de Nazaries, Mas concretamente hemos elegido el color 
 La elección de la tipografía Roboto para una web de arte Nazarí se basa en su legibilidad, versatilidad, disponibilidad, compatibilidad y capacidad para crear contraste visual. Estas cualidades pueden ayudar a transmitir la estética y la esencia de la forma de arte Nazarí, al tiempo que brindan una experiencia de usuario agradable y accesible.
 
+![Método UX](P3/1.Diseño Visual/moodbard.png)
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
 Hemos realizado la siguiente landing page para acceder a la app o para registrarse:
+![Método UX](P3/2.Landing Page/Landing page.png)
+
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
@@ -141,6 +144,8 @@ Hemos realizado la siguiente landing page para acceder a la app o para registrar
 ----
 
 >>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+https://github.com/seryiiqteca/DIU_CafeDerramao/blob/15bc07fc8f9f0686b2b7e245300c478b739fc01f/P3/4.Layout%2BSimulacion/Tema_claro.mp4
+
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
