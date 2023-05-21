@@ -12,7 +12,7 @@ La elección de la tipografía Roboto para una web de arte Nazarí se basa en su
 ## Landing Page
 
 Hemos realizado la siguiente landing page para acceder a la app o para registrarse:
-![Método UX](P3/2.LandingPage/Landing\ page.png)
+![Método UX](2.LandingPage/LandingPage.png)
 
 ## Mockup: LAYOUT HI-FI
 Hemos realizado un prototipo a traves de la herramienta de figma donde podríamos ver algunas funcionalidaes básicas de nuestra aplicación una vez este completa.
