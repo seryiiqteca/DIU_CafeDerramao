@@ -144,7 +144,11 @@ Guidelines hemos utilizado las de material design 3 usando el archivo de figma m
 Hemos realizado un prototipo a traves de la herramienta de figma donde podríamos ver algunas funcionalidaes básicas de nuestra aplicación una vez este completa.<br/>
 Hemos Agregado una version en modo claro y otra en modo oscuro para la preferencia del usuairo.
 
-https://github.com/seryiiqteca/DIU_CafeDerramao/blob/15bc07fc8f9f0686b2b7e245300c478b739fc01f/P3/4.Layout%2BSimulacion/Tema_claro.mp4
+
+
+
+
+https://github.com/seryiiqteca/DIU_CafeDerramao/assets/67373495/9ba43d45-3f00-410f-af6c-3c5be647e890
 
 
 
