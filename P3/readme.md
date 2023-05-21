@@ -20,7 +20,14 @@ Hemos realizado un prototipo a traves de la herramienta de figma donde podríamo
 
 
 
-https://github.com/seryiiqteca/DIU_CafeDerramao/assets/67373495/ac0e80a5-1b40-4719-b691-b8c54c2db24a
+
+https://github.com/seryiiqteca/DIU_CafeDerramao/assets/67373495/e629a27d-9ba0-4399-a65c-635ce38a0739
+
+
+
+
+https://github.com/seryiiqteca/DIU_CafeDerramao/assets/67373495/232db4f6-876c-4a9b-acd4-92a346f67030
+
 
 
 
