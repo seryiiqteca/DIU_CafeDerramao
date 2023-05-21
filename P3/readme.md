@@ -16,6 +16,7 @@ Hemos realizado la siguiente landing page para acceder a la app o para registrar
 
 ## Mockup: LAYOUT HI-FI
 Hemos realizado un prototipo a traves de la herramienta de figma donde podríamos ver algunas funcionalidaes básicas de nuestra aplicación una vez este completa.
+![Método UX](4.LayoutYSimulacion/Practica3_Prototipo.pdf)
 
 ## Documentación: Publicación del Case Study
 
