@@ -18,6 +18,12 @@ Hemos realizado la siguiente landing page para acceder a la app o para registrar
 Hemos realizado un prototipo a traves de la herramienta de figma donde podríamos ver algunas funcionalidaes básicas de nuestra aplicación una vez este completa.
 ![Método UX](4.LayoutYSimulacion/Practica3_Prototipo.pdf)
 
+
+
+https://github.com/seryiiqteca/DIU_CafeDerramao/assets/67373495/ac0e80a5-1b40-4719-b691-b8c54c2db24a
+
+
+
 ## Documentación: Publicación del Case Study
 
 
