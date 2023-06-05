@@ -18,4 +18,4 @@
 * Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
 
 * Conclusiones
-  En general nos parece una práctica bastante aceptable aunque tal vez vemos su mayor carencia en la 
+  La página luce bien diseñada y si la navegación es como suponemos (a falta del archivo .fig) las tareas serían relativamente sencillas de realizar, el problema puede yacer en ciertos problemas en la interfaz como ciertos apartados de contraste (las estrellas de los comentarios por ejemplo) y el muy excesivo uso de tarjetas donde debería haber objetos como listas.
