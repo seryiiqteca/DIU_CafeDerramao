@@ -10,13 +10,12 @@
 
 * A/B Testing. 
 <p>[Archivo con A/B testing](https://github.com/seryiiqteca/DIU_CafeDerramao/files/11655658/CafeDerramao-Sardinillas-Cuestionario_DIU4.xlsx)</p>
->>> - Valoración final (numérica): 80 (excellent)</p>
+>>> - Valoración final (numérica): 80 (excellent)
 ![Método UX](Archivos/CapturaAB.png)
-
 
 
 * Usability Report de Caso B
 * Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
 
 * Conclusiones
-* Es
+  En general nos parece una práctica bastante aceptable aunque tal vez vemos su mayor carencia en la 
