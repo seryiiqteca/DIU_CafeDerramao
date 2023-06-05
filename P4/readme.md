@@ -9,9 +9,9 @@
 <p>USUARIO 1:SERGIO, hombre de 42 años profesor , da clases de musica y quiere que sus alumnos vayan a ver algo de música de su tierrra(flamenco)</p>
 
 * A/B Testing. 
-</p>[Archivo con A/B testing](https://github.com/seryiiqteca/DIU_CafeDerramao/files/11655658/CafeDerramao-Sardinillas-Cuestionario_DIU4.xlsx)</p>
->>> - Valoración final (numérica): 80 (excellent)
-![Método UX](Archivos/CapturaAB)
+<p>[Archivo con A/B testing](https://github.com/seryiiqteca/DIU_CafeDerramao/files/11655658/CafeDerramao-Sardinillas-Cuestionario_DIU4.xlsx)</p>
+>>> - Valoración final (numérica): 80 (excellent)</p>
+![Método UX](Archivos/CapturaAB.png)
 
 
 
