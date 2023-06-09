@@ -9,13 +9,13 @@
 <p>USUARIO 1:SERGIO, hombre de 42 años profesor , da clases de musica y quiere que sus alumnos vayan a ver algo de música de su tierrra(flamenco)</p>
 
 * A/B Testing. 
-</p>[Archivo con A/B testing](https://github.com/seryiiqteca/DIU_CafeDerramao/files/11655658/CafeDerramao-Sardinillas-Cuestionario_DIU4.xlsx)</p>
-
-
-* Tareas realizadas 
+<p>[Archivo con A/B testing](https://github.com/seryiiqteca/DIU_CafeDerramao/files/11655658/CafeDerramao-Sardinillas-Cuestionario_DIU4.xlsx)</p>
+>>> - Valoración final (numérica): 80 (excellent)
+![Método UX](Archivos/CapturaAB.png)
 
 
 * Usability Report de Caso B
 * Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
 
 * Conclusiones
+  La página luce bien diseñada y si la navegación es como suponemos (a falta del archivo .fig) las tareas serían relativamente sencillas de realizar, el problema puede yacer en ciertos problemas en la interfaz como ciertos apartados de contraste (las estrellas de los comentarios por ejemplo) y el muy excesivo uso de tarjetas donde debería haber objetos como listas.
